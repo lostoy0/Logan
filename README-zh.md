@@ -1,11 +1,11 @@
-# Logan
+# x-logan
 
 [![license](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](https://raw.githubusercontent.com/Meituan-Dianping/Logan/master/LICENSE)
 [![Release Version](https://img.shields.io/github/release/Meituan-Dianping/Logan.svg?maxAge=2592000?style=flat-square)](https://github.com/Meituan-Dianping/Logan/releases)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Meituan-Dianping/Logan/pulls)
 [![Platform Support](https://img.shields.io/badge/Platform-%20iOS%20%7C%20Android%20-brightgreen.svg)](https://github.com/Meituan-Dianping/Logan/wiki)
 
-Logan 是美团点评集团推出的大前端日志系统。名称是 Log 和 An 的组合，代表个体日志服务，同时也是金刚狼大叔的大名。
+x-logan 是基于 Logan 的多平台日志系统项目。当前仓库保留 `Logan` 作为 SDK、API、模块和历史文档中的兼容名称。
 
 # 总览
 

@@ -1,6 +1,6 @@
-# Contributing to Logan
+# Contributing to x-logan
 
-Logan is a lightweight case logging system based on mobile platform developed by Meituan-Dianping
+x-logan is a multi-platform logging project based on Logan. The SDK and API names may still use `Logan` for compatibility.
 
 ## Development Process
 
@@ -46,4 +46,4 @@ Copy and paste this to the top of your new file(s):
 
 ## License
 
-By contributing to Logan, you agree that your contributions will be licensed under its MIT License.
+By contributing to x-logan, you agree that your contributions will be licensed under its MIT License.

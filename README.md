@@ -1,5 +1,5 @@
 
-# Logan
+# x-logan
 
 [![license](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](https://raw.githubusercontent.com/Meituan-Dianping/Logan/master/LICENSE)
 [![Release Version](https://img.shields.io/github/release/Meituan-Dianping/Logan.svg?maxAge=2592000?style=flat-square)](https://github.com/Meituan-Dianping/Logan/releases)
@@ -9,7 +9,7 @@
 [中文说明](./README-zh.md)
 
 # Overview
-Logan is a log platform with ability to collect、store、upload and analyze front-end logs. We provide five components, including [iOS SDK](https://github.com/Meituan-Dianping/Logan/tree/master/Logan/iOS), [Android SDK](https://github.com/Meituan-Dianping/Logan/tree/master/Example/Logan-Android), [Web SDK](https://github.com/Meituan-Dianping/Logan/tree/master/Logan/WebSDK), analysis services [Server SDK](https://github.com/Meituan-Dianping/Logan/tree/master/Logan/Server) and [LoganSite](https://github.com/Meituan-Dianping/Logan/tree/master/Logan/LoganSite). In addition, we also provide a Flutter plugin [Flutter Plugin](https://github.com/Meituan-Dianping/Logan/tree/master/Flutter).
+x-logan is a multi-platform logging project based on Logan. The repository keeps `Logan` as the compatible SDK, API, module, and historical documentation name. It provides [iOS SDK](https://github.com/Meituan-Dianping/Logan/tree/master/Logan/iOS), [Android SDK](https://github.com/Meituan-Dianping/Logan/tree/master/Example/Logan-Android), [Web SDK](https://github.com/Meituan-Dianping/Logan/tree/master/Logan/WebSDK), analysis services [Server SDK](https://github.com/Meituan-Dianping/Logan/tree/master/Logan/Server), [LoganSite](https://github.com/Meituan-Dianping/Logan/tree/master/Logan/LoganSite), and a [Flutter Plugin](https://github.com/Meituan-Dianping/Logan/tree/master/Flutter).
 
 # Architecture
 ![Logan](https://mss-shon.sankuai.com/v1/mss_7d6cd84b52d543248bbb734abd392e9a/logan-open-source/logan_arch.png)
